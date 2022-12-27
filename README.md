@@ -1,2 +1,2 @@
 # Data Science
-Prática atividade ciencia de dados
+Prática atividade ciência de dados
