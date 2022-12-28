@@ -7,7 +7,7 @@
 # Edvandro Fernandes
 <sub>*Data Scientist* Consultant</sub>
 
-As a data scientist, steelworker, motorcycle shop owner and network analyst, with experience in industry, commerce and hospital environment, I combine analytical skills, ability to work in team environments and attention to detail. Having spent the last few years applying Machine Learning to real problems in commercial and industrial areas, I have developed critical thinking and problem solving skills.
+As a data scientist, steelmaker, motorcycle shop owner and network analyst, with experience in industry, commerce and hospital environment, I combine analytical skills, ability to work in team environments and attention to detail. Having spent the last few years applying Machine Learning to real problems in commercial and industrial areas, I have developed critical thinking and problem solving skills.
 
 My credentials include a postgraduate degree in Data Science and Big Data at the Pontifical Catholic University of Minas Gerais (PUC-Minas), an institution of higher education and advanced research considered one of the best and most prestigious universities in Brazil.
 
