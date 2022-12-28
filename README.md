@@ -5,7 +5,7 @@
 </p>
 
 # Edvandro Fernandes
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Data Scientist* Consultant</sub>
 
 As a data scientist, steelworker, motorcycle shop owner and network analyst, with experience in industry, commerce and hospital environment, I combine analytical skills, ability to work in team environments and attention to detail. Having spent the last few years applying Machine Learning to real problems in commercial and industrial areas, I have developed critical thinking and problem solving skills.
 
