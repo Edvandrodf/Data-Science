@@ -22,12 +22,12 @@ My credentials include a postgraduate degree in Data Science and Big Data at the
 ## Projetos:
 Veja os tutoriais publicados:
 
-* **Como usar o Histograma para Data Science:
-* **Como Implementar Regressão Linear com Python:
-* **Data Science: Investigando o naufrágio do Titanic:
-* **Como Tratar Dados Ausentes com Pandas:
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:
-* **Como criar uma Wordcloud em Python:
-* **Como lidar com dados desbalanceados:
+* **Como usar o Histograma para Data Science:**
+* **Como Implementar Regressão Linear com Python:**
+* **Data Science: Investigando o naufrágio do Titanic:**
+* **Como Tratar Dados Ausentes com Pandas:**
+* **XGBoost: aprenda este algoritmo de Machine Learning em Python:**
+* **Como criar uma Wordcloud em Python:**
+* **Como lidar com dados desbalanceados:**
 
 ---
