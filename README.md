@@ -23,7 +23,7 @@ My credentials include a postgraduate degree in Data Science and Big Data at the
 Veja os tutoriais publicados:
 
 * [Usando Histograma para Data Science](https://colab.research.google.com/drive/1vDYCiyqQ67FsTItVoNXS-rya_ryEMJ6L#scrollTo=ieRIvVuo5KTz)
-* **Como Implementar Regressão Linear com Python:**
+* [Aplicando Análise de Regressão simples em Machine Learning](https://github.com/Edvandrodf/Data-Science/blob/main/Regressao_linear.ipynb)
 * **Data Science: Investigando o naufrágio do Titanic:**
 * **Como Tratar Dados Ausentes com Pandas:**
 * **XGBoost: aprenda este algoritmo de Machine Learning em Python:**
