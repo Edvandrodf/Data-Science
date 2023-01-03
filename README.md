@@ -15,7 +15,7 @@ My credentials include a postgraduate degree in Data Science and Big Data at the
 
 **Links:**
 * [Blog](http://)
-* [LinkedIn](https://www.linkedin.com/in/edvandro-dias-76299a257)
+* [LinkedIn](https://www.linkedin.com/in/edvandro-dias-fernandes-76299a257)
 * [Medium](https://www.medium.com)
 
 
